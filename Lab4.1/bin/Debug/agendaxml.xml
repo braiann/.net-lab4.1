@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <contactos>
+    <nombre>Juana</nombre>
+    <apellido>De Blanco</apellido>
+    <email>jdblanco@gmail.com</email>
+    <telefono>411-1111</telefono>
+  </contactos>
+  <contactos>
+    <nombre>Jose</nombre>
+    <apellido>Gonzales</apellido>
+    <email>johny_smithy@gmail.com</email>
+    <telefono>422-2222</telefono>
+  </contactos>
+  <contactos>
+    <nombre>Rodrigo</nombre>
+    <apellido>Rodriguez</apellido>
+    <email>rodrirodri@gmail.com</email>
+    <telefono>433-3333</telefono>
+  </contactos>
+  <contactos>
+    <nombre>hola</nombre>
+    <apellido>juan</apellido>
+    <email>hola@juan.com</email>
+    <telefono>1234</telefono>
+  </contactos>
+</DocumentElement>
